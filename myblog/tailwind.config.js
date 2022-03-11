@@ -1,0 +1,1 @@
+module.exports = {   content: ['./src/App.js', './src/pages/Home.js', './src/pages/Article.js', './src/pages/About.js', './src/pages/ArticleList.js', './src/components/NavBar.js', './src/components/AddCommentForm.js', './src/components/CommentList.js'],   theme: {     extend: {},   },   plugins: [], }
